@@ -1,7 +1,7 @@
 # sleepAPI
 Sleep API
 This is the solution for the assignment for the aleep APP
-THe API is built using Django and the frontend is deployed at sleepapi.anaws14.ml
+THe API is built using Django and the frontend is deployed at [Login](#http://sleepapi.anaws14.ml:8000/sleep/login/)
 The API endpoints are 
 1: /sleep/login
 The endpoint is used to authenticate the users
